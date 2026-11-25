@@ -1,0 +1,7 @@
+# Lista blanca: solo entra en la imagen lo imprescindible.
+*
+!requirements.txt
+!app
+**/__pycache__
+**/*.py[cod]
+**/.env*

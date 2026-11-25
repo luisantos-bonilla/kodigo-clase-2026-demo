@@ -1,0 +1,2 @@
+# Evita que Git altere los bytes del modelo (rompería su huella SHA-256).
+*.joblib binary
